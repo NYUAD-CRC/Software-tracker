@@ -1,0 +1,17 @@
+Application,Processes
+gasoline2, 6424
+nek5000, 5376
+mikmm, 1214
+gmx_mpi, 1152
+AX-Gadget-volume-dg, 1024
+croco, 768
+roms, 384
+python, 370
+gmx, 256
+ptnceerandom, 232
+castep.mpi, 128
+ptcerandom, 27
+cr_lib, 19
+samtools, 9
+java, 1
+converge-intelmpi, 1
